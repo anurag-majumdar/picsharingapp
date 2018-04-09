@@ -13,6 +13,19 @@ The technologies used in this app are as follows
  <li>Vue js</li>
 </ul>
 
+<br>
+<h2>Current Features</h2>
+<ul>
+ <li>Create profile of your pet</li>
+ <li>Share post to another social networks</li>
+ <li>Like,Comment,Delete post</li>
+ <li>Follow others profile</li>
+ <li>See recent posts</li>
+ <li>Tag other pet mates</li>
+ <li>Send messages</li>
+ <li>Add,Search hashtags</li>
+</ul>
+
 <h2>Install npm package</h2>
 <p>Install the npm packages described in the package.json and verify that it works:</p>
 <div class="class="highlight highlight-source-shell"><pre>npm install</pre></div>
