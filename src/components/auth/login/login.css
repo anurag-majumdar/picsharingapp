@@ -102,11 +102,12 @@ justify-content: space-between;
 
 .signupButtons > button:hover,
 .signupButtons > button:active {
+  cursor: pointer;
+  border: none;
   box-shadow: 1px 3px 15px #fdcbd7;
   background:linear-gradient( #fd80a4 , #ef5b95);
 }
   
-
 
 
 /************  Media Queries  **********/
